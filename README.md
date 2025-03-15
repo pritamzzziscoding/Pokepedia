@@ -19,7 +19,7 @@ A React-based Pokémon card application that allows users to search for Pokémon
 1. Clone the repository:
    ```bash
    git clone https://github.com/pritamzzziscoding/Pokepedia.git
-   cd pokemon-card-app
+   cd Pokepedia
    ```
 2. Install dependencies:
    ```bash
